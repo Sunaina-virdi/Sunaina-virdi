@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sunaina</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img alter="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"/>
-
+<div align="left">
 - 🌱 I’m currently learning **Node.js, Java**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-lime-omega-93.vercel.app/](https://portfolio-lime-omega-93.vercel.app/)
 
 - 📫 How to reach me **sunainavirdi.5341@gmail.com**
-
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_virdi_sunaina_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_virdi_sunaina_" height="30" width="40" /></a>
