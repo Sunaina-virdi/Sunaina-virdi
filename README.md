@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I'm passionate about web development, AI, and prob
 🏆 Completed projects: MERN stack applications, booking management systems, and AI bias analysis
 📌 Interested in: Building scalable web applications and ethical AI practices
 
----
 
 ## 🛠️ Tech Stack
 
