@@ -1,8 +1,8 @@
-**Hi there! 👋 I'm Sunaina**
+## Hi there! 👋 I'm Sunaina
 
 Welcome to my GitHub profile! I'm passionate about web development, AI, and problem-solving. Here, you'll find projects ranging from front-end designs to back-end implementations, as well as AI-related experiments.
 
-🚀 About Me
+## 🚀 About Me
 
 💻 Full-stack Developer | AI Enthusiast | Problem Solver
 🌱 Currently learning: Advanced AI concepts and full-stack web development
@@ -11,14 +11,14 @@ Welcome to my GitHub profile! I'm passionate about web development, AI, and prob
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Languages: Java, C++, JavaScript, Python
 Front-end: React.js, Tailwind CSS, HTML, CSS
 Back-end: Node.js, Express.js, MongoDB, Mongoose
 Tools & Platforms: Git, GitHub
 
-📌 Featured Projects
+## 📌 Featured Projects
 
 🔹 All-in-One Booking Site - A complete booking management system built with MERN stack. 🔗 https://github.com/Sunaina-virdi/All-In-One-Booking
 
@@ -26,7 +26,7 @@ Tools & Platforms: Git, GitHub
 
 🔹 House Price Predicator AI - Training AI model and practices fair prices. 🔗 https://github.com/Sunaina-virdi/HOUSE-PRICE-PREDICATOR
 
-📫 Connect With Me
+## 📫 Connect With Me
 
 - Email: sunainavirdi14@gmail.com
 - Linkedin: https://www.linkedin.com/in/sunaina-018b96288/
