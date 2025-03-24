@@ -4,18 +4,18 @@ Welcome to my GitHub profile! I'm passionate about web development, AI, and prob
 
 ## 🚀 About Me
 
-💻 Full-stack Developer | AI Enthusiast | Problem Solver
-🌱 Currently learning: Advanced AI concepts and full-stack web development
-🏆 Completed projects: MERN stack applications, booking management systems, and AI bias analysis
-📌 Interested in: Building scalable web applications and ethical AI practices
+- 💻 Full-stack Developer | AI Enthusiast | Problem Solver
+- 🌱 Currently learning: Advanced AI concepts and full-stack web development
+- 🏆 Completed projects: MERN stack applications, booking management systems, and AI bias analysis
+- 📌 Interested in: Building scalable web applications and ethical AI practices
 
 
 ## 🛠️ Tech Stack
 
-Languages: Java, C++, JavaScript, Python
-Front-end: React.js, Tailwind CSS, HTML, CSS
-Back-end: Node.js, Express.js, MongoDB, Mongoose
-Tools & Platforms: Git, GitHub
+- Languages: Java, C++, JavaScript, Python
+- Front-end: React.js, Tailwind CSS, HTML, CSS
+- Back-end: Node.js, Express.js, MongoDB, Mongoose
+- Tools & Platforms: Git, GitHub
 
 ## 📌 Featured Projects
 
