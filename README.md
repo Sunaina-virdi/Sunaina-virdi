@@ -29,6 +29,6 @@ Welcome to my GitHub profile! I'm passionate about web development, AI, and prob
 
 - Email: sunainavirdi14@gmail.com
 - Linkedin: https://www.linkedin.com/in/sunaina-018b96288/
-- Portfolio: https://portfolio-lime-omega-93.vercel.app/
+- Portfolio: https://portfolio-website-sandy-kappa.vercel.app/
 
 💬 Ask me about web development, AI, or anything tech-related
