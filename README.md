@@ -25,6 +25,9 @@ Welcome to my GitHub profile! I'm passionate about web development, AI, and prob
 
 🔹 House Price Predicator AI - Training AI model and practices fair prices. 🔗 https://github.com/Sunaina-virdi/HOUSE-PRICE-PREDICATOR
 
+## 📊 GitHub Stats
+![Sunaina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sunaina-virdi&show_icons=true&theme=tokyonight)
+
 ## 📫 Connect With Me
 
 - Email: sunainavirdi14@gmail.com
