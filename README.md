@@ -17,13 +17,6 @@ Welcome to my GitHub profile! I'm passionate about web development, AI, and prob
 - Back-end: Node.js, Express.js, MongoDB, Mongoose
 - Tools & Platforms: Git, GitHub
 
-## 📌 Featured Projects
-
-🔹 All-in-One Booking Site - A complete booking management system built with MERN stack. 🔗 https://github.com/Sunaina-virdi/All-In-One-Booking
-
-🔹 To-Do List App - A simple yet functional task manager using JavaScript. 🔗 https://2nd-task.vercel.app/
-
-🔹 House Price Predicator AI - Training AI model and practices fair prices. 🔗 https://github.com/Sunaina-virdi/HOUSE-PRICE-PREDICATOR
 
 ## 📊 GitHub Stats
 ![Sunaina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sunaina-virdi&show_icons=true&theme=tokyonight)
